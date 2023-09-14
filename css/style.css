@@ -16,5 +16,6 @@ body {
 
 .flex{
     display: flex;
-    
+    justify-content: space-between;
+    padding: 0px 8px 0px 8px;
 }
