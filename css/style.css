@@ -86,14 +86,20 @@ body {
     background-color: #FABC43;
     height: 77px;
     width: 600px;
+    display: flex;
+    justify-content: space-between;
+    padding: 9px 0px 0px 0px;
+
 
 }
 
-#img{
-    float: right;
-    margin: 0px 0px 0px 0px;
+
+.footerItem {
+    color: white;
+    font-size: 9px;
 }
 
-.reset {
-    clear: both;
+.itemList {
+    display: flex;
+    flex-direction: column;
 }
