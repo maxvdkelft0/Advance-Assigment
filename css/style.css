@@ -84,5 +84,13 @@ body {
 
 
 .Footer {
-    
+    background-color: #FABC43;
+    height: 77px;
+    width: 600px;
+
+}
+
+#img{
+    float: right;
+    margin: 15px 20px 15px 0px;
 }
