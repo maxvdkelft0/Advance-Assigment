@@ -91,5 +91,9 @@ body {
 
 #img{
     float: right;
-    margin: 15px 20px 15px 0px;
+    margin: 0px 20px 15px 0px;
+}
+
+.reset {
+    clear: both;
 }
