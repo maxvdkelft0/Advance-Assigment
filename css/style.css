@@ -98,10 +98,23 @@ body {
     color: white;
     font-size: 9px;
     text-decoration: none;
+    margin: 7px 0px 0px 10px;
 
 }
 
 .itemList {
     display: flex;
     flex-direction: column;
+}
+
+.midfield{
+    background-color: #5394A7;
+    width: 600px;
+    height: 184px;
+    margin: 78px 0px 78px 0px;
+    display: flex;
+}
+
+#film{
+    margin: auto;
 }
