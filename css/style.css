@@ -97,6 +97,8 @@ body {
 .footerItem {
     color: white;
     font-size: 9px;
+    text-decoration: none;
+
 }
 
 .itemList {
