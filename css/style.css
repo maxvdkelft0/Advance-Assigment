@@ -4,10 +4,17 @@
 
 /* Classes */
 body {
+    margin: 0px;
     font-family: 'Roboto', sans-serif;
 }
 
-.navMenu{
-    float: left;
+.mainContainer {
+    width: 600px;
+    margin: auto;
+    background-color: #F7F5F5;
+}
+
+.flex{
+    display: flex;
     
 }
