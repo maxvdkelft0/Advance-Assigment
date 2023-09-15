@@ -139,6 +139,12 @@ body {
     align-self: self-end;
 }
 
+.boxButton:hover {
+    transition: all 300ms;
+    background-color: #b41743;
+    color: white;
+}
+
 .Footer {
     background-color: #FABC43;
     height: 77px;
